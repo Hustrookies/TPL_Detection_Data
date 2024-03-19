@@ -1,0 +1,2482 @@
+[
+    {
+        "name": "de.vier_bier.habpanelviewer",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.7.2"
+            }
+        ]
+    },
+    {
+        "name": "com.kunzisoft.keepass.libre",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.65.01"
+            }
+        ]
+    },
+    {
+        "name": "ch.bailu.aat",
+        "libraries": [
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "fr.nuage.souvenirs",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.6.4"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.1.1"
+            }
+        ]
+    },
+    {
+        "name": "com.adonai.manman",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.12.1"
+            },
+            {
+                "name": "commons-compress",
+                "version": "1.13"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "de.hampager.dapnetmobile",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.2"
+            }
+        ]
+    },
+    {
+        "name": "com.rtbishop.look4sat",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.1.1"
+            }
+        ]
+    },
+    {
+        "name": "me.murks.feedwatcher",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.11.3"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.1.1"
+            }
+        ]
+    },
+    {
+        "name": "org.fdroid.fdroid",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.11.1"
+            },
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.65"
+            }
+        ]
+    },
+    {
+        "name": "com.nextcloud.client",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.8"
+            },
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            },
+            {
+                "name": "jackrabbit-webdav",
+                "version": "2.13.1"
+            }
+        ]
+    },
+    {
+        "name": "com.aurora.corona",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.3.1"
+            }
+        ]
+    },
+    {
+        "name": "in.shick.diode",
+        "libraries": [
+            {
+                "name": "httpclient",
+                "version": "4.1.2"
+            }
+        ]
+    },
+    {
+        "name": "be.digitalia.fosdem",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.12.13"
+            }
+        ]
+    },
+    {
+        "name": "com.developerfromjokela.motioneyeclient",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.7.2"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.11.3"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.8.1"
+            }
+        ]
+    },
+    {
+        "name": "de.christinecoenen.code.zapp",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.7"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.1.1"
+            }
+        ]
+    },
+    {
+        "name": "io.horizontalsystems.bankwallet",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "org.openpetfoodfacts.scanner",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.12.3"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.6.4"
+            }
+        ]
+    },
+    {
+        "name": "org.poul.bits.android",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.9.7"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.5"
+            },
+            {
+                "name": "androidsvg-aar",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "de.geeksfactory.opacclient",
+        "libraries": [
+            {
+                "name": "httpclient-android",
+                "version": "4.3.5.1"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.6.4"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.8.3"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.1"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "de.mwvb.blockpuzzle",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "de.rwth_aachen.phyphox",
+        "libraries": [
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "app.crescentcash.src",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.64"
+            }
+        ]
+    },
+    {
+        "name": "org.totschnig.myexpenses",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.6.4"
+            },
+            {
+                "name": "itextpdf",
+                "version": "5.5.13.1"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "org.weilbach.splitbills",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "27.1-android"
+            }
+        ]
+    },
+    {
+        "name": "org.happypeng.sumatora.android.sumatoradictionary",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.11.2"
+            }
+        ]
+    },
+    {
+        "name": "net.schueller.peertube",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "com.google.android.stardroid",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "30.1.1-jre"
+            }
+        ]
+    },
+    {
+        "name": "eu.pretix.pretixprint",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.58"
+            },
+            {
+                "name": "jackson-databind",
+                "version": "2.12.4"
+            },
+            {
+                "name": "pdfbox-android",
+                "version": "1.8.10.0"
+            }
+        ]
+    },
+    {
+        "name": "net.wigle.wigleandroid",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.9.0.pr3"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "org.kontalk",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.65"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "smack-core",
+                "version": "4.3.4"
+            },
+            {
+                "name": "smack-tcp",
+                "version": "4.3.4"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.5.0"
+            }
+        ]
+    },
+    {
+        "name": "jp.redmine.redmineclient",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "24.1-jre"
+            }
+        ]
+    },
+    {
+        "name": "org.midorinext.android",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.7"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.8.0"
+            }
+        ]
+    },
+    {
+        "name": "com.termux.widget",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "24.1-jre"
+            }
+        ]
+    },
+    {
+        "name": "net.programmierecke.radiodroid2",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "org.nutritionfacts.dailydozen",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.5"
+            }
+        ]
+    },
+    {
+        "name": "de.nulide.shiftcal",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.10.0"
+            }
+        ]
+    },
+    {
+        "name": "theakki.synctool",
+        "libraries": [
+            {
+                "name": "httpclient-android",
+                "version": "4.3.5.1"
+            },
+            {
+                "name": "tika-parsers",
+                "version": "1.12"
+            },
+            {
+                "name": "jackrabbit-webdav",
+                "version": "2.12.9"
+            }
+        ]
+    },
+    {
+        "name": "com.prangesoftwaresolutions.audioanchor",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "link.standen.michael.phonesaver",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.2"
+            }
+        ]
+    },
+    {
+        "name": "freemap.opentrail",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "com.aurora.store",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "com.akdev.nofbeventscraper",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.14.1"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "com.yacgroup.yacguide",
+        "libraries": [
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "ru.ra66it.updaterforspotify",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "org.nitri.opentopo",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.5.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "com.mendhak.gpslogger",
+        "libraries": [
+            {
+                "name": "jackrabbit-webdav",
+                "version": "2.12.2"
+            }
+        ]
+    },
+    {
+        "name": "org.transdroid.search",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            }
+        ]
+    },
+    {
+        "name": "click.dummer.notify_to_jabber",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.5.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            },
+            {
+                "name": "smack-tcp",
+                "version": "4.1.6"
+            },
+            {
+                "name": "smack-core",
+                "version": "4.1.6"
+            }
+        ]
+    },
+    {
+        "name": "org.fdroid.nearby",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.11.1"
+            },
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.65"
+            }
+        ]
+    },
+    {
+        "name": "xyz.adjutor.aniki",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "de.baumann.pdfcreator",
+        "libraries": [
+            {
+                "name": "itextpdf",
+                "version": "5.5.10"
+            }
+        ]
+    },
+    {
+        "name": "com.machiav3lli.backup",
+        "libraries": [
+            {
+                "name": "commons-compress",
+                "version": "1.21"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.8"
+            }
+        ]
+    },
+    {
+        "name": "com.dougkeen.bart",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.6.1"
+            }
+        ]
+    },
+    {
+        "name": "com.yacgroup.yacguide.dev",
+        "libraries": [
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "com.physphil.android.unitconverterultimate",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.3.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.0"
+            }
+        ]
+    },
+    {
+        "name": "sh.ikl.liteshort",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.5"
+            }
+        ]
+    },
+    {
+        "name": "de.luhmer.owncloudnewsreader",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.13"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.6.4"
+            }
+        ]
+    },
+    {
+        "name": "de.storchp.opentracks.osmplugin.offline",
+        "libraries": [
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "com.keylesspalace.tusky",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.9.1"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            }
+        ]
+    },
+    {
+        "name": "org.chickenhook.binderfuzzy",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "protect.videoeditor",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.9.8"
+            },
+            {
+                "name": "guava",
+                "version": "23.0"
+            }
+        ]
+    },
+    {
+        "name": "com.oriondev.moneywallet",
+        "libraries": [
+            {
+                "name": "itextpdf",
+                "version": "5.5.13"
+            }
+        ]
+    },
+    {
+        "name": "net.osmtracker",
+        "libraries": [
+            {
+                "name": "httpclient-android",
+                "version": "4.3.5"
+            }
+        ]
+    },
+    {
+        "name": "com.ichi2.anki",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.13.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.14.3"
+            },
+            {
+                "name": "commons-compress",
+                "version": "1.12"
+            }
+        ]
+    },
+    {
+        "name": "com.amaze.filemanager",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.68"
+            },
+            {
+                "name": "commons-compress",
+                "version": "1.18"
+            }
+        ]
+    },
+    {
+        "name": "mobi.maptrek",
+        "libraries": [
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.8.1"
+            }
+        ]
+    },
+    {
+        "name": "openfoodfacts.github.scrachx.openbeauty",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.12.3"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.6.4"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.1"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "com.eletac.tronwallet",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.2"
+            }
+        ]
+    },
+    {
+        "name": "se.bitcraze.crazyfliecontrol2",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.6.3"
+            }
+        ]
+    },
+    {
+        "name": "de.bahnhoefe.deutschlands.bahnhofsfotos",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.8"
+            },
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            }
+        ]
+    },
+    {
+        "name": "com.b44t.messenger",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.9.9.2"
+            }
+        ]
+    },
+    {
+        "name": "horse.amazin.my.stratum0.statuswidget",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.64"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.4.0"
+            }
+        ]
+    },
+    {
+        "name": "com.nkanaev.comics",
+        "libraries": [
+            {
+                "name": "commons-compress",
+                "version": "1.12"
+            },
+            {
+                "name": "junrar",
+                "version": "0.7"
+            }
+        ]
+    },
+    {
+        "name": "com.perflyst.twire",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.7"
+            }
+        ]
+    },
+    {
+        "name": "com.workingagenda.democracydroid",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            }
+        ]
+    },
+    {
+        "name": "org.poopeeland.tinytinyfeed",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.5"
+            }
+        ]
+    },
+    {
+        "name": "com.rohitsuratekar.NCBSinfo",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "de.devmil.muzei.bingimageofthedayartsource",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.5.0"
+            }
+        ]
+    },
+    {
+        "name": "org.savapage.android.print",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.6.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            }
+        ]
+    },
+    {
+        "name": "ademar.bitac",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.9.1"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            }
+        ]
+    },
+    {
+        "name": "ml.docilealligator.infinityforreddit",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.8"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.1"
+            }
+        ]
+    },
+    {
+        "name": "com.bmco.cratesiounofficial",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.8.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.5"
+            }
+        ]
+    },
+    {
+        "name": "com.termux.tasker",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "24.1-jre"
+            }
+        ]
+    },
+    {
+        "name": "com.readrops.app",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.1"
+            }
+        ]
+    },
+    {
+        "name": "com.xabber.android",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.3.0"
+            },
+            {
+                "name": "smack-tcp",
+                "version": "4.2.1"
+            },
+            {
+                "name": "smack-core",
+                "version": "4.2.1"
+            },
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.58"
+            }
+        ]
+    },
+    {
+        "name": "com.mschlauch.comfortreader",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.10.2"
+            },
+            {
+                "name": "pdfbox-android",
+                "version": "1.8.10.0"
+            }
+        ]
+    },
+    {
+        "name": "org.studip.unofficial_app",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.7"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            }
+        ]
+    },
+    {
+        "name": "com.greenaddress.abcore",
+        "libraries": [
+            {
+                "name": "commons-compress",
+                "version": "1.19"
+            }
+        ]
+    },
+    {
+        "name": "edu.sharif.ce.apyugioh",
+        "libraries": [
+            {
+                "name": "log4j-core",
+                "version": "2.14.1"
+            }
+        ]
+    },
+    {
+        "name": "ch.abertschi.adfree",
+        "libraries": [
+            {
+                "name": "xstream",
+                "version": "1.4.7"
+            }
+        ]
+    },
+    {
+        "name": "app.crossword.yourealwaysbe.forkyz",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            }
+        ]
+    },
+    {
+        "name": "com.android.gpstest.osmdroid",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.11.2"
+            }
+        ]
+    },
+    {
+        "name": "com.perol.asdpl.play.pixivez.libre",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.12.1"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.2.2"
+            }
+        ]
+    },
+    {
+        "name": "de.danoeh.antennapod",
+        "libraries": [
+            {
+                "name": "conscrypt-android",
+                "version": "2.4.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.11.2"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.10"
+            }
+        ]
+    },
+    {
+        "name": "de.nulide.bikecomputer",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.10.0"
+            }
+        ]
+    },
+    {
+        "name": "de.nulide.findmydevice",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.10.0"
+            }
+        ]
+    },
+    {
+        "name": "mattecarra.accapp",
+        "libraries": [
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            }
+        ]
+    },
+    {
+        "name": "android.nachiketa.ebookdownloader",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.11.3"
+            }
+        ]
+    },
+    {
+        "name": "com.cookiegames.smartcookie",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            }
+        ]
+    },
+    {
+        "name": "com.example.forgottenumbrella.cardboardmuseum",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.9.3"
+            }
+        ]
+    },
+    {
+        "name": "com.halftough.webcomreader",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.4.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.11.3"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            }
+        ]
+    },
+    {
+        "name": "com.health.openworkout",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.8.1"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            }
+        ]
+    },
+    {
+        "name": "com.mde.potdroid",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.7.0"
+            }
+        ]
+    },
+    {
+        "name": "de.piratentools.spickerrr",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.11.3"
+            }
+        ]
+    },
+    {
+        "name": "io.pslab",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.9.3"
+            }
+        ]
+    },
+    {
+        "name": "net.usikkert.kouchat.android",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "25.1-android"
+            }
+        ]
+    },
+    {
+        "name": "ohi.andre.consolelauncher",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.10.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.11.3"
+            }
+        ]
+    },
+    {
+        "name": "org.afhdownloader",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.9.1"
+            }
+        ]
+    },
+    {
+        "name": "org.opengappsdownloader",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.11.3"
+            }
+        ]
+    },
+    {
+        "name": "org.schabi.jedentageinset",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.6.0"
+            }
+        ]
+    },
+    {
+        "name": "foss.cnugteren.nlweer",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.10.1"
+            }
+        ]
+    },
+    {
+        "name": "de.uni_potsdam.hpi.openmensa",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.7.0"
+            }
+        ]
+    },
+    {
+        "name": "com.app.missednotificationsreminder",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.6.0"
+            }
+        ]
+    },
+    {
+        "name": "org.nonononoki.hendroid",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.6.4"
+            }
+        ]
+    },
+    {
+        "name": "ryey.easer",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "28.1-android"
+            }
+        ]
+    },
+    {
+        "name": "ru.natsuru.websdr",
+        "libraries": [
+            {
+                "name": "nv-websocket-client",
+                "version": "2.14"
+            }
+        ]
+    },
+    {
+        "name": "org.piwigo.android",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "guava",
+                "version": "29.0-android"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "org.schabi.newpipe",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.15.3"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            }
+        ]
+    },
+    {
+        "name": "com.btcontract.wallet",
+        "libraries": [
+            {
+                "name": "netty-all",
+                "version": "4.1.42.Final"
+            },
+            {
+                "name": "guava",
+                "version": "29.0-android"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            }
+        ]
+    },
+    {
+        "name": "eu.faircode.email",
+        "libraries": [
+            {
+                "name": "commons-compress",
+                "version": "1.21"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.15.3"
+            },
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            },
+            {
+                "name": "nv-websocket-client",
+                "version": "2.14"
+            }
+        ]
+    },
+    {
+        "name": "com.wikaba.ogapp",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.8.2"
+            }
+        ]
+    },
+    {
+        "name": "org.mariotaku.twidere",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "guava",
+                "version": "28.2-android"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            }
+        ]
+    },
+    {
+        "name": "ru.hyst329.openfool",
+        "libraries": [
+            {
+                "name": "logback-classic",
+                "version": "1.2.3"
+            }
+        ]
+    },
+    {
+        "name": "org.softeg.slartus.forpdaplus",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.12.3"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.14.3"
+            }
+        ]
+    },
+    {
+        "name": "de.grobox.liberario",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "29.0-android"
+            }
+        ]
+    },
+    {
+        "name": "com.dar.nclientv2",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.15.1"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            }
+        ]
+    },
+    {
+        "name": "wb.receiptspro",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.9.0"
+            },
+            {
+                "name": "guava",
+                "version": "29.0-android"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "pdfbox-android",
+                "version": "1.8.10.1"
+            },
+            {
+                "name": "logback-android",
+                "version": "2.0.0"
+            }
+        ]
+    },
+    {
+        "name": "fr.free.nrw.commons",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.12.1"
+            },
+            {
+                "name": "logback-classic",
+                "version": "1.1.1-6"
+            }
+        ]
+    },
+    {
+        "name": "com.kanedias.archforums",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.14.2"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.12.1"
+            }
+        ]
+    },
+    {
+        "name": "org.glpi.inventory.agent",
+        "libraries": [
+            {
+                "name": "dom4j",
+                "version": "2.1.3"
+            }
+        ]
+    },
+    {
+        "name": "de.wikilab.android.ldapsync",
+        "libraries": [
+            {
+                "name": "unboundid-ldapsdk",
+                "version": "3.2.1"
+            }
+        ]
+    },
+    {
+        "name": "de.tadris.fitness",
+        "libraries": [
+            {
+                "name": "jackson-dataformat-xml",
+                "version": "2.11.1"
+            },
+            {
+                "name": "androidsvg",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "de.yaacc",
+        "libraries": [
+            {
+                "name": "jetty-server",
+                "version": "8.2.0.v20160908"
+            },
+            {
+                "name": "jetty-http",
+                "version": "8.2.0.v20160908"
+            },
+            {
+                "name": "jetty-security",
+                "version": "8.2.0.v20160908"
+            },
+            {
+                "name": "jetty-servlet",
+                "version": "8.2.0.v20160908"
+            }
+        ]
+    },
+    {
+        "name": "com.lightning.walletapp",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.9.1"
+            },
+            {
+                "name": "guava",
+                "version": "24.0-android"
+            }
+        ]
+    },
+    {
+        "name": "net.ivpn.client",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.6.2"
+            },
+            {
+                "name": "logback-android",
+                "version": "2.0.0"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.6"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            }
+        ]
+    },
+    {
+        "name": "org.transdroid.full",
+        "libraries": [
+            {
+                "name": "openjpa-lib",
+                "version": "3.1.1"
+            }
+        ]
+    },
+    {
+        "name": "io.mainframe.hacs",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.3.1"
+            }
+        ]
+    },
+    {
+        "name": "me.blog.korn123.easydiary",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "27.0.1-android"
+            },
+            {
+                "name": "jasypt",
+                "version": "1.9.2"
+            }
+        ]
+    },
+    {
+        "name": "me.ccrama.redditslide",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "31.0.1-android"
+            },
+            {
+                "name": "nv-websocket-client",
+                "version": "2.14"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.13"
+            }
+        ]
+    },
+    {
+        "name": "com.vlille.checker",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.3.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.12"
+            },
+            {
+                "name": "gson",
+                "version": "2.8.3"
+            }
+        ]
+    },
+    {
+        "name": "de.langerhans.wallet",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.14.9"
+            },
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.56"
+            }
+        ]
+    },
+    {
+        "name": "org.transdroid.lite",
+        "libraries": [
+            {
+                "name": "openjpa-lib",
+                "version": "3.1.1"
+            }
+        ]
+    },
+    {
+        "name": "net.cyclestreets",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.11.3"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            }
+        ]
+    },
+    {
+        "name": "net.xzos.upgradeall",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "5.0.0-alpha.10"
+            },
+            {
+                "name": "dom4j",
+                "version": "2.1.3"
+            }
+        ]
+    },
+    {
+        "name": "com.ubergeek42.WeechatAndroid",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            },
+            {
+                "name": "nv-websocket-client",
+                "version": "2.14"
+            }
+        ]
+    },
+    {
+        "name": "com.greenaddress.greenbits_android_wallet.testnet",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.5.2"
+            },
+            {
+                "name": "okhttp",
+                "version": "2.7.5"
+            },
+            {
+                "name": "netty-all",
+                "version": "4.1.4.Final"
+            },
+            {
+                "name": "guava",
+                "version": "18.0"
+            }
+        ]
+    },
+    {
+        "name": "eu.tilk.cdlcplayer",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.10.3"
+            },
+            {
+                "name": "jackson-dataformat-xml",
+                "version": "2.10.3"
+            }
+        ]
+    },
+    {
+        "name": "org.droidupnp",
+        "libraries": [
+            {
+                "name": "jetty-server",
+                "version": "8.1.18.v20150929"
+            },
+            {
+                "name": "jetty-http",
+                "version": "8.1.18.v20150929"
+            },
+            {
+                "name": "jetty-security",
+                "version": "8.1.18.v20150929"
+            },
+            {
+                "name": "jetty-servlet",
+                "version": "8.1.18.v20150929"
+            }
+        ]
+    },
+    {
+        "name": "github.daneren2005.dsub",
+        "libraries": [
+            {
+                "name": "jetty-server",
+                "version": "8.1.16.v20140903"
+            },
+            {
+                "name": "jetty-http",
+                "version": "8.1.16.v20140903"
+            },
+            {
+                "name": "jetty-security",
+                "version": "8.1.16.v20140903"
+            },
+            {
+                "name": "jetty-servlet",
+                "version": "8.1.16.v20140903"
+            }
+        ]
+    },
+    {
+        "name": "org.pacien.tincapp",
+        "libraries": [
+            {
+                "name": "logback-android",
+                "version": "2.0.0"
+            },
+            {
+                "name": "commons-beanutils",
+                "version": "1.9.3"
+            }
+        ]
+    },
+    {
+        "name": "com.wangdaye.mysplash",
+        "libraries": [
+            {
+                "name": "library",
+                "version": "1.7.6"
+            }
+        ]
+    },
+    {
+        "name": "com.greenaddress.greenbits_android_wallet",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "24.1-android"
+            }
+        ]
+    },
+    {
+        "name": "luke.launcher",
+        "libraries": [
+            {
+                "name": "framework",
+                "version": "8.1.0"
+            }
+        ]
+    },
+    {
+        "name": "com.graphhopper.maps",
+        "libraries": [
+            {
+                "name": "framework",
+                "version": "7.0.0"
+            }
+        ]
+    },
+    {
+        "name": "com.flasskamp.subz",
+        "libraries": [
+            {
+                "name": "framework",
+                "version": "7.0.0"
+            }
+        ]
+    },
+    {
+        "name": "com.robertmengual.toberquizz",
+        "libraries": [
+            {
+                "name": "framework",
+                "version": "7.0.0"
+            }
+        ]
+    },
+    {
+        "name": "com.vulnerabbity.geoperion",
+        "libraries": [
+            {
+                "name": "framework",
+                "version": "7.0.0"
+            }
+        ]
+    },
+    {
+        "name": "de.lsubel.amam",
+        "libraries": [
+            {
+                "name": "framework",
+                "version": "7.0.0"
+            }
+        ]
+    },
+    {
+        "name": "team.swing.pendulums",
+        "libraries": [
+            {
+                "name": "framework",
+                "version": "8.1.0"
+            }
+        ]
+    },
+    {
+        "name": "org.fox.tttrss",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.10.2"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.5"
+            }
+        ]
+    },
+    {
+        "name": "hashengineering.groestlcoin.wallet_test",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.14.9"
+            }
+        ]
+    },
+    {
+        "name": "com.miloshpetrov.sol2.android",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "30.1-jre"
+            },
+            {
+                "name": "dom4j",
+                "version": "2.1.3"
+            }
+        ]
+    },
+    {
+        "name": "net.schueller.instarepost",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.8.0"
+            }
+        ]
+    },
+    {
+        "name": "com.geecko.QuickLyric",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.7.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.8.3"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.1.0"
+            }
+        ]
+    },
+    {
+        "name": "com.appmindlab.nano",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "27.0.1-android"
+            }
+        ]
+    },
+    {
+        "name": "de.ccc.events.badge.card10",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.1.0"
+            },
+            {
+                "name": "commons-compress",
+                "version": "1.18"
+            }
+        ]
+    },
+    {
+        "name": "com.github.doomsdayrs.apps.shosetsu",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.15.2"
+            },
+            {
+                "name": "guava",
+                "version": "31.1-android"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            }
+        ]
+    },
+    {
+        "name": "com.fastaccess.github.libre",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.3.0"
+            },
+            {
+                "name": "jsoup",
+                "version": "1.10.3"
+            }
+        ]
+    },
+    {
+        "name": "org.floens.chan",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.10.0"
+            }
+        ]
+    },
+    {
+        "name": "ca.fuwafuwa.kaku",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "31.0.1-android"
+            }
+        ]
+    },
+    {
+        "name": "de.eidottermihi.raspicheck",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.68"
+            },
+            {
+                "name": "guava",
+                "version": "20.0"
+            },
+            {
+                "name": "logback-classic",
+                "version": "1.1.1-6"
+            }
+        ]
+    },
+    {
+        "name": "im.quicksy.client",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "conscrypt-android",
+                "version": "2.5.2"
+            }
+        ]
+    },
+    {
+        "name": "org.openobservatory.ooniprobe",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "guava",
+                "version": "30.1.1-android"
+            }
+        ]
+    },
+    {
+        "name": "com.github.palmcalc2019.palmcalc",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "3.14.2"
+            }
+        ]
+    },
+    {
+        "name": "org.sugr.gearshift",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.3.0"
+            }
+        ]
+    },
+    {
+        "name": "com.mitzuli",
+        "libraries": [
+            {
+                "name": "acra",
+                "version": "4.6.2"
+            }
+        ]
+    },
+    {
+        "name": "it.reyboz.bustorino",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.13.1"
+            }
+        ]
+    },
+    {
+        "name": "com.marcospoerl.simplypace",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "29.0-android"
+            }
+        ]
+    },
+    {
+        "name": "software.mdev.bookstracker",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.6.0"
+            }
+        ]
+    },
+    {
+        "name": "eu.hydrologis.geopaparazzi",
+        "libraries": [
+            {
+                "name": "httpclient",
+                "version": "4.5.9"
+            }
+        ]
+    },
+    {
+        "name": "nl.mpcjanssen.simpletask.nextcloud",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.10.0-RC1"
+            }
+        ]
+    },
+    {
+        "name": "github.vatsal.easyweatherdemo",
+        "libraries": [
+            {
+                "name": "retrofit",
+                "version": "2.1.0"
+            }
+        ]
+    },
+    {
+        "name": "com.foobnix.pro.pdf.reader",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.15.2"
+            },
+            {
+                "name": "okhttp",
+                "version": "3.12.6"
+            }
+        ]
+    },
+    {
+        "name": "de.qwerty287.ftpclient",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.70"
+            }
+        ]
+    },
+    {
+        "name": "com.fr.laboussole.track",
+        "libraries": [
+            {
+                "name": "groovy-all",
+                "version": "2.4.12"
+            }
+        ]
+    },
+    {
+        "name": "com.tachibana.downloader",
+        "libraries": [
+            {
+                "name": "commons-compress",
+                "version": "1.21"
+            }
+        ]
+    },
+    {
+        "name": "com.xtreak.notificationdictionary",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.9.1"
+            }
+        ]
+    },
+    {
+        "name": "eu.depau.etchdroid",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "29.0-jre"
+            }
+        ]
+    },
+    {
+        "name": "eu.e43.impeller",
+        "libraries": [
+            {
+                "name": "httpclient",
+                "version": "4.3.3"
+            },
+            {
+                "name": "guava",
+                "version": "17.0"
+            }
+        ]
+    },
+    {
+        "name": "threads.server",
+        "libraries": [
+            {
+                "name": "guava",
+                "version": "31.1-android"
+            }
+        ]
+    },
+    {
+        "name": "com.morlunk.mumbleclient",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.7.2"
+            }
+        ]
+    },
+    {
+        "name": "com.cheogram.android",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            },
+            {
+                "name": "conscrypt-android",
+                "version": "2.5.2"
+            }
+        ]
+    },
+    {
+        "name": "io.treehouses.remote",
+        "libraries": [
+            {
+                "name": "androidsvg-aar",
+                "version": "1.4"
+            }
+        ]
+    },
+    {
+        "name": "com.xargsgrep.portknocker",
+        "libraries": [
+            {
+                "name": "jackson-databind",
+                "version": "2.5.1"
+            }
+        ]
+    },
+    {
+        "name": "one.librem.tunnel",
+        "libraries": [
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.49"
+            }
+        ]
+    },
+    {
+        "name": "me.zhanghai.android.files",
+        "libraries": [
+            {
+                "name": "junrar",
+                "version": "7.4.1"
+            },
+            {
+                "name": "commons-compress",
+                "version": "1.20"
+            },
+            {
+                "name": "androidsvg-aar",
+                "version": "1.4"
+            },
+            {
+                "name": "okhttp",
+                "version": "5.0.0-alpha.3"
+            },
+            {
+                "name": "bcprov-jdk15on",
+                "version": "1.70"
+            }
+        ]
+    },
+    {
+        "name": "moe.matsuri.lite",
+        "libraries": [
+            {
+                "name": "okhttp",
+                "version": "5.0.0-alpha.3"
+            }
+        ]
+    },
+    {
+        "name": "damo.three.ie",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.7.2"
+            }
+        ]
+    },
+    {
+        "name": "fr.gouv.android.stopcovid",
+        "libraries": [
+            {
+                "name": "pdfbox-android",
+                "version": "2.0.25.0"
+            },
+            {
+                "name": "okhttp",
+                "version": "4.10.0"
+            },
+            {
+                "name": "retrofit",
+                "version": "2.9.0"
+            }
+        ]
+    },
+    {
+        "name": "org.moparisthebest.pageplus",
+        "libraries": [
+            {
+                "name": "jsoup",
+                "version": "1.7.2"
+            }
+        ]
+    }
+]
